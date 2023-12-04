@@ -68,8 +68,6 @@ function displaySavedData(key, expenseDetails) {
     expenseList.appendChild(listItem);
     listItem.appendChild(delBtn);
     listItem.appendChild(editBtn);
-
-
 }
 
 
